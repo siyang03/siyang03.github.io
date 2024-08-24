@@ -39,6 +39,7 @@ a{
 }
 
 .contact-info{
+    margin-top: 1px;
     float: right;
     font-size: small;
 }
@@ -54,6 +55,10 @@ a{
 }
 
 /* %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% */
+.photo-block{
+    margin: 10px;
+}
+
 #profile-photo{
     border-radius: 5px;
     float: right;
