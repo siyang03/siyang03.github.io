@@ -64,3 +64,10 @@ a{
     float: right;
     height: 9.5em;
 }
+
+.inline-img{
+    display: inline;
+    margin: 0 0.125em;
+    padding: 0;
+    vertical-align: baseline;
+}
