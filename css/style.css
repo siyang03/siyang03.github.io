@@ -90,7 +90,7 @@ a{
     background-color: green;
     display: block;
     width: 40px;
-    height: 2px; 
+    height: 0px; 
 }
   
 .hr-line-primary:after {
@@ -98,7 +98,7 @@ a{
     background-color: green;
     display: block;
     width: 40px;
-    height: 2px; 
+    height: 0px; 
   }
   
   .hr-line-primary {
