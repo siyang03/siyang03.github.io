@@ -44,6 +44,12 @@ a{
     font-size: small;
 }
 
+.caption{
+    text-align: center;
+    font-size: small;
+    margin-right: 10px;
+}
+
 /* %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% */
 .box-1{
     padding-left: 20px;
@@ -71,3 +77,34 @@ a{
     padding: 0;
     vertical-align: baseline;
 }
+
+#KSP-screenshot{
+    border-radius: 5px;
+    height: 200px;
+    display: inline-block;
+    margin-right: 10px; /* Optional: Add some space between the images */
+}
+
+.hr-line-primary:before {
+    content: '';
+    background-color: green;
+    display: block;
+    width: 40px;
+    height: 2px; 
+}
+  
+.hr-line-primary:after {
+    content: '';
+    background-color: green;
+    display: block;
+    width: 40px;
+    height: 2px; 
+  }
+  
+  .hr-line-primary {
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
+    align-items: center;
+  }
