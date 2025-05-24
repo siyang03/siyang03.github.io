@@ -101,10 +101,10 @@ a{
     height: 0px; 
   }
   
-  .hr-line-primary {
+.hr-line-primary {
     background-position: center;
     display: flex;
     justify-content: space-between;
     height: 200px;
     align-items: center;
-  }
+}
