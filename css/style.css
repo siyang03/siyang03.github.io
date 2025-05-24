@@ -41,7 +41,7 @@ a{
 .contact-info{
     margin-top: 1px;
     float: right;
-    font-size: small;
+    /* font-size: small; */
 }
 
 .caption{
