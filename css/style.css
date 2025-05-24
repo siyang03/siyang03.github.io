@@ -39,6 +39,8 @@ a{
 }
 
 .contact-info{
+    vertical-align: middle;
+    font-size: small;
     float: right;
 }
 
