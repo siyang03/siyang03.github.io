@@ -39,9 +39,9 @@ a{
 }
 
 .contact-info{
-    margin-top: 1px;
     float: right;
-    /* font-size: small; */
+    /* margin-top: 1px;
+    font-size: small; */
 }
 
 .caption{
@@ -77,14 +77,14 @@ a{
     padding: 0;
     vertical-align: baseline;
 }
-
+/*
 #KSP-screenshot{
     border-radius: 5px;
     height: 200px;
     display: inline-block;
-    margin-right: 10px; /* Optional: Add some space between the images */
+    margin-right: 10px; /* Optional: Add some space between the images * /
 }
-
+*/
 .hr-line-primary:before {
     content: '';
     background-color: green;
